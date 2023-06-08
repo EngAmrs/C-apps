@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1668103977 source:c:\users\amr\desktop\lab 8\lab 8 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1668105493 >
+
+1667728736 source:c:\users\amr\desktop\lab 8\lab 8 - 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1667733012 
+
+1668105493 source:c:\users\amr\desktop\lab 8\lab 8 - 2\options.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667733012 source:c:\users\amr\desktop\lab 8\lab 8 - 2\switching.c
+	<stdio.h>
+	<stdlib.h>
+
+1668103977 source:/media/amr/Work/ITI/C programming/Labs/Lab 8/Lab 8 - 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+

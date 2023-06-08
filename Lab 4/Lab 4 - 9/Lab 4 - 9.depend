@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1667648589 source:c:\users\amr\desktop\lab 4\lab 4 - 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667606707 source:c:\users\amr\desktop\lab 4\lab 4 - 9\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1667648489 source:c:\users\amr\desktop\lab 4\lab 4 - 9\options.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667707356 source:c:\users\amr\desktop\lab 4\lab 4 - 9\switching.c
+	<stdio.h>
+	<stdlib.h>
+
+1667648589 source:d:\iti\c programming\labs\lab 4\lab 4 - 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667606707 source:d:\iti\c programming\labs\lab 4\lab 4 - 9\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1667648489 source:d:\iti\c programming\labs\lab 4\lab 4 - 9\options.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667707356 source:d:\iti\c programming\labs\lab 4\lab 4 - 9\switching.c
+	<stdio.h>
+	<stdlib.h>
+

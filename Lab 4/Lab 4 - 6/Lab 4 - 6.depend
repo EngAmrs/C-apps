@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667577678 source:c:\users\amr\desktop\lab 4\lab 4 - 6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667577587 source:c:\users\amr\desktop\lab 4\lab 4 - 6\strcpy.c
+
+1667824830 source:d:\iti\c programming\labs\lab 4\lab 4 - 6\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668060522 source:c:\users\amr\desktop\lab 5\lab 7 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<string.h>
+

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1667733486 source:c:\users\amr\desktop\lab 5\lab 5 - 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667728736 source:c:\users\amr\desktop\lab 5\lab 5 - 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1667733012 source:c:\users\amr\desktop\lab 5\lab 5 - 4\switching.c
+	<stdio.h>
+	<stdlib.h>
+
+1667733720 source:c:\users\amr\desktop\lab 5\lab 5 - 4\options.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667733486 source:d:\iti\c programming\labs\lab 5\lab 5 - 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667728736 source:d:\iti\c programming\labs\lab 5\lab 5 - 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1667792279 source:d:\iti\c programming\labs\lab 5\lab 5 - 4\options.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1667733012 source:d:\iti\c programming\labs\lab 5\lab 5 - 4\switching.c
+	<stdio.h>
+	<stdlib.h>
+

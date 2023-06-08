@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1668178212 source:c:\users\amr\desktop\lab 8\lab 8 - 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<string.h>
+
+1668178212 
+
+1668178248 source:/media/amr/Work/ITI/C programming/Labs/Lab 8/Lab 8 - 4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<string.h>
+

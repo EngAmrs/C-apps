@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667396748 source:c:\users\amr\desktop\lab 3\lab 3 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667649933 source:c:\users\amr\desktop\iti\c programming\labs\lab 3\lab 3 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667649933 source:d:\iti\c programming\labs\lab 3\lab 3 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
